@@ -1,13 +1,20 @@
-# My First IT Project
+# Student Management System - Python Project
+A simple Python project to manage student records using Python & SQL.
 
-Hi, I am Gangadevi. I am learning for IT job.
+## 🚀 Features
+- Add new student details
+- View & Search student records  
+- Delete records
+- Built with Python + MySQL concepts
 
-My Skills:
-- Python (Learning)
-- MySQL (Learning)
-- AWS Cloud (Learning)
+## 🛠️ Tech Stack
+- Python Programming
+- MySQL / SQL
 - GitHub
 
-My Goal: Get IT Job in Chennai
+## 👩‍💻 About Me
+B.E CSE (2023-2027) | Aspiring Python Developer | TCS NQT Aspirant
+Learning for IT jobs in Chennai | Open to opportunities
 
-Contact: Linked for opportunities
+## 📬 Connect
+LinkedIn: Gangadevi S
